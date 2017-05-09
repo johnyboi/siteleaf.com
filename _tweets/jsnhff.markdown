@@ -1,6 +1,6 @@
 ---
 title: Jason Huff
-position: 0
+position: 2
 handle: "@jsnhff"
 image: "/uploads/avatar--jsnhff.jpg"
 link: https://twitter.com/jsnhff/status/737047990339284992

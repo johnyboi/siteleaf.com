@@ -1,6 +1,6 @@
 ---
 title: Casey Gollan
-position: 2
+position: 1
 handle: "@CaseyG"
 image: "/uploads/avatar--CaseyG.jpg"
 link: https://twitter.com/CaseyG/status/358286369962995712
