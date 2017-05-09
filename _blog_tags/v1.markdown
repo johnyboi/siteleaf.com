@@ -1,6 +1,7 @@
 ---
 title: v1
 permalink: "/blog/tags/v1/"
+position: 11
 color: dark-gray
 ---
 
